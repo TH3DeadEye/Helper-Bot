@@ -1,0 +1,19 @@
+{
+  "name": "helper-bot",
+  "version": "1.0.0",
+  "description": "This bot will help the server in manegment, music , redit webhook , and twitter webhook",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm main.js"
+  },
+  "author": "0ArM4n0",
+  "license": "ISC",
+  "dependencies": {
+    "discord-youtube-api": "^0.1.0",
+    "discord.js": "^12.5.1",
+    "googleapis": "^39.2.0",
+    "nba.js": "^0.6.1",
+    "youtube-api": "^3.0.1",
+    "youtube-search": "^1.1.6"
+  }
+}
